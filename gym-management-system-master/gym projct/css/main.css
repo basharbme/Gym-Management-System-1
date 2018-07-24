@@ -1,0 +1,92 @@
+
+#headtag{
+color: black;
+font size: 30px;
+text-align: center;
+font-family:Viner Hand ITC;
+
+}
+#tagl{
+	color: black;
+font size: 10px;
+text-align: center;
+margin-left: 80px;
+font-family:Viner Hand ITC;
+margin-top: -30px;
+
+
+}
+body{
+   background-image:url('../images/bg2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+input{
+	color: white;
+height:60px;
+	width: 380px;
+		background-color:rgba(0,0,0,0.3);
+border-radius: 10px;
+
+font-size: 20px;
+padding-left: 20px;
+border:2px solid #A9A9A9;
+
+}
+
+input:hover{
+	border:2px solid #1E90FF;
+ 
+}
+#pic{
+	width:330px;
+	font-size:15px;
+	border:2px solid white;
+	padding-top: 10px;
+	margin-top: -40px;
+	margin-left:50px;
+border:2px solid #A9A9A9;
+
+}
+#pic:hover{
+	border:2px solid #1E90FF;
+
+}
+#h3,#h4{
+	color: white;
+		font-size:15px;
+
+}
+#male,#female{
+	width: 20px;
+	height: 20px;
+}
+#female,#h4{
+	margin-left: 80px;
+}
+a{
+	text-decoration: none;
+}
+#h4{
+	margin-top: -56PX;
+}
+#submit{
+background-color: 	#1E90FF;	
+border-radius: 10px;
+}
+#submit:hover{
+	background-color:#A9A9A9	;	
+
+}
+#div1{
+	background-color:rgba(0,0,20,0.3);
+	width:400px;
+	padding: 30px;
+
+
+	margin-top: -110px;
+	margin-left: 50px;
+}

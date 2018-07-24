@@ -1,0 +1,68 @@
+<web-app>
+        <servlet>
+        <servlet-name>AddPhoto</servlet-name>
+        <servlet-class>AddPhotoServlet</servlet-class>
+        </servlet>
+        <servlet-mapping>
+        <servlet-name>AddPhoto</servlet-name>
+        <url-pattern>/addphoto</url-pattern>
+        </servlet-mapping>    
+        <servlet>
+        <servlet-name>ListPhotos</servlet-name>
+        <servlet-class>ListPhotosServlet</servlet-class>
+        </servlet>
+        <servlet-mapping>
+        <servlet-name>ListPhotos</servlet-name>
+        <url-pattern>/listphotos</url-pattern>
+        </servlet-mapping>
+        
+        <servlet>
+        <servlet-name>DisplayPhotoServlet</servlet-name>
+        <servlet-class>DisplayPhotoServlet</servlet-class>
+        </servlet>
+    
+        <servlet-mapping>
+        <servlet-name>DisplayPhotoServlet</servlet-name>
+        <url-pattern>/displayphoto</url-pattern>
+        </servlet-mapping>
+
+        <servlet>
+        <servlet-name>ListFees</servlet-name>
+        <servlet-class>ListFeesServlet</servlet-class>
+        </servlet>
+    
+        <servlet-mapping>
+        <servlet-name>ListFees</servlet-name>
+        <url-pattern>/listfees</url-pattern>
+        </servlet-mapping>
+
+        <servlet>
+        <servlet-name>feesubmit</servlet-name>
+        <servlet-class>SubmitFeesServlet</servlet-class>
+        </servlet>
+    
+        <servlet-mapping>
+        <servlet-name>feesubmit</servlet-name>
+        <url-pattern>/feessubmit</url-pattern>
+        </servlet-mapping>
+
+        <servlet>
+        <servlet-name>searchmonth</servlet-name>
+        <servlet-class>SearchMonthServlet</servlet-class>
+        </servlet>
+    
+        <servlet-mapping>
+        <servlet-name>searchmonth</servlet-name>
+        <url-pattern>/smonth</url-pattern>
+        </servlet-mapping>
+
+	<servlet>
+        <servlet-name>totalfees</servlet-name>
+        <servlet-class>TotalSumServlet</servlet-class>
+        </servlet>
+    
+        <servlet-mapping>
+        <servlet-name>totalfees</servlet-name>
+        <url-pattern>/tfees</url-pattern>
+        </servlet-mapping>
+</web-app>

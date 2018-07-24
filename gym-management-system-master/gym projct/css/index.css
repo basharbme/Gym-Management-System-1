@@ -1,0 +1,61 @@
+body{
+   background-image:url('../images/bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+dd:hover{
+		border:2px solid #1E90FF;
+
+}
+#headtag{
+color: black;
+font size: 30px;
+text-align: center;
+font-family:Viner Hand ITC;
+
+}
+#tagl{
+	color: black;
+font size: 10px;
+text-align: center;
+margin-left: 80px;
+font-family:Viner Hand ITC;
+margin-top: -30px;
+
+
+}
+#div1{
+	width:400px;
+	height:450px;
+	background-color: rgba(192,192,192,0.5);
+	margin-left: 900px;
+	margin-top: 60px;
+}
+#d1,#d2,#d3,#d4,#d5{
+	font-size: 18px;
+	color: white;
+	background-color:rgba(0,0,0,0.3);
+	height:60px;
+	width: 380px;
+	padding-top:0px;
+	padding-bottom: 20px;
+	margin-left: 10px;
+}
+#img1,#img2,#img3,#img4,#img5{
+	padding-top: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-family:Trajan Pro;
+}
+a:hover{
+		color: black;
+
+}
+#d2,#d3,#d4,#d5{
+	margin-top: 10px;
+}

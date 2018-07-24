@@ -1,0 +1,83 @@
+body{
+   background-image:url('../images/bg4.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+input{
+	
+margin-left: 100px;
+	color: white;
+height:120px;
+	width: 380px;
+		background-color:rgba(0,0,0,0.3);
+border-radius: 80px;
+font-size: 20px;
+padding-left: 20px;
+border:2px solid #A9A9A9;
+
+}
+
+a{
+	text-decoration: none;
+}
+#id{
+
+margin-left: 100px;
+	color: white;
+height:100px;
+	width: 380px;
+		background-color:rgba(0,0,0,0.3);
+border-radius: 80px;
+font-size: 20px;
+padding-left: 20px;
+border:2px solid #A9A9A9;
+
+
+}
+
+#submit{
+	margin-left: 230px;
+
+	width:120px;
+	height: 120px;
+background-color:#1E90FF;	
+border-radius: 80px;
+}
+#submit:hover{
+	background-color:#A9A9A9;	
+
+}
+
+#headtag{
+color: white;
+font size: 30px;
+text-align: center;
+font-family:Viner Hand ITC;
+
+}
+#tagl{
+	color:white;
+font size: 10px;
+text-align: center;
+margin-left: 80px;
+font-family:Viner Hand ITC;
+margin-top: -30px;
+
+
+}
+
+
+#div1{
+	padding:50px;
+	background-color:rgba(0,0,20,0.3);
+	width:600px;
+	padding: 30px;
+border-radius: 200px;
+height: 300px;
+
+	margin-top: 140px;
+	margin-left: 660px;
+}

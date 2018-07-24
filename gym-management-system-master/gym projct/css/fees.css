@@ -1,0 +1,78 @@
+body{
+   background-image:url('../images/bg3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+a{
+	text-decoration: none;
+}
+#h3,#h4{
+	color: white;
+		font-size:15px;
+
+}
+#d2{
+	margin-left:200px;
+	margin-top: -410px;
+}
+#in1{
+	width: 20px;
+	height: 20px;
+}
+
+input{
+	color: white;
+height:35px;
+	width: 380px;
+		background-color:rgba(0,0,0,0.3);
+border-radius: 10px;
+
+font-size: 20px;
+padding-left: 20px;
+border:2px solid #A9A9A9;
+
+}
+
+#headtag{
+color: white;
+font size: 30px;
+text-align: center;
+font-family:Viner Hand ITC;
+
+}
+#tagl{
+	color: black;
+font size: 10px;
+text-align: center;
+margin-left: 80px;
+font-family:Viner Hand ITC;
+margin-top: -30px;
+
+
+}
+
+input:hover{
+	border:2px solid #1E90FF;
+ 
+}
+
+#submit{
+background-color:#1E90FF;	
+border-radius: 10px;
+}
+#submit:hover{
+	background-color:#A9A9A9;	
+
+}
+
+#div1{
+	background-color:rgba(0,0,20,0.3);
+	width:400px;
+	padding: 30px;
+
+
+	margin-top: -70px;
+	margin-left: 50px;
+}
